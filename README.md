@@ -1,0 +1,2 @@
+# FastAPIJWTAuth
+FastAPI CRUD AND JWT API
